@@ -1,0 +1,1601 @@
+ --------------------------------------------------
+    Frame numéro 6
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 235 bytes 
+        > Taille de la capture : 235 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 221
+        > ID :21e2
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 43fd
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 220 | -xc90.websitewelcome.com ESMTP Exim 4.69 #1 Mon, 05 Oct 2009 01:05:54 -0500
+        > [CODE] : 220 | -We do not authorize the use of this system to transport unsolicited,
+        > [CODE] : 220 |  and/or bulk e-mail.
+ 
+ --------------------------------------------------
+    Frame numéro 7
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 63 bytes 
+        > Taille de la capture : 63 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 49
+        > ID :251f
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f3cb
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [ESMTP command] : EHLO |  GP
+ 
+ --------------------------------------------------
+    Frame numéro 8
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21e3
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44b1
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 9
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 191 bytes 
+        > Taille de la capture : 191 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 177
+        > ID :21e4
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 4427
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 250 | -xc90.websitewelcome.com Hello GP [122.162.143.157]
+        > [CODE] : 250 | -SIZE 52428800
+        > [CODE] : 250 | -PIPELINING
+        > [CODE] : 250 | -AUTH PLAIN LOGIN
+        > [CODE] : 250 | -STARTTLS
+        > [CODE] : 250 |  HELP
+ 
+ --------------------------------------------------
+    Frame numéro 10
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 66 bytes 
+        > Taille de la capture : 66 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 52
+        > ID :2524
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f3c3
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [ESMTP command] : AUTH LOGIN | 
+ 
+ --------------------------------------------------
+    Frame numéro 11
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 72 bytes 
+        > Taille de la capture : 72 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 58
+        > ID :21e5
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 449d
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 334 |  VXNlcm5hbWU6
+ 
+ --------------------------------------------------
+    Frame numéro 12
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:08
+        > Taille du paquet: 84 bytes 
+        > Taille de la capture : 84 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 70
+        > ID :2529
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f3ac
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 13
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:09
+        > Taille du paquet: 72 bytes 
+        > Taille de la capture : 72 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 58
+        > ID :21e6
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 449c
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 334 |  UGFzc3dvcmQ6
+ 
+ --------------------------------------------------
+    Frame numéro 14
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:09
+        > Taille du paquet: 72 bytes 
+        > Taille de la capture : 72 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 58
+        > ID :252e
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f3b3
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 15
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:09
+        > Taille du paquet: 84 bytes 
+        > Taille de la capture : 84 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 70
+        > ID :21e7
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 448f
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 235 |  Authentication succeeded
+ 
+ --------------------------------------------------
+    Frame numéro 16
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:09
+        > Taille du paquet: 90 bytes 
+        > Taille de la capture : 90 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 76
+        > ID :2533
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f39c
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [ESMTP command] : MAIL FROM | : <gurpartap@patriots.in>
+ 
+ --------------------------------------------------
+    Frame numéro 17
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:09
+        > Taille du paquet: 62 bytes 
+        > Taille de la capture : 62 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 48
+        > ID :21e8
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a4
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 250 |  OK
+ 
+ --------------------------------------------------
+    Frame numéro 18
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:09
+        > Taille du paquet: 93 bytes 
+        > Taille de la capture : 93 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 79
+        > ID :2538
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f394
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [ESMTP command] : RCPT TO | : <raj_deol2002in@yahoo.co.in>
+ 
+ --------------------------------------------------
+    Frame numéro 19
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 68 bytes 
+        > Taille de la capture : 68 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 54
+        > ID :21e9
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 449d
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 250 |  Accepted
+ 
+ --------------------------------------------------
+    Frame numéro 20
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 46
+        > ID :253d
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f3b0
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [ESMTP command] : DATA | 
+ 
+ --------------------------------------------------
+    Frame numéro 21
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 110 bytes 
+        > Taille de la capture : 110 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 96
+        > ID :21ea
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 4472
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 354 |  Enter message, ending with "." on a line by itself
+ 
+ --------------------------------------------------
+    Frame numéro 22
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 1514 bytes 
+        > Taille de la capture : 1514 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1500
+        > ID :254f
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edf0
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [Champ] : From: |  "Gurpartap Singh" <gurpartap@patriots.in>
+        > [Champ] : To: |  <raj_deol2002in@yahoo.co.in>
+        > [Champ] : Subject: |  SMTP
+        > [Champ] : Date: |  Mon, 5 Oct 2009 11:36:07 +0530
+        > [Champ] : Message-ID: |  <000301ca4581$ef9e57f0$cedb07d0$@in>
+        > [Champ] : MIME-Version: |  1.0
+        > [Champ] : Content-Type: |  multipart/mixed;
+        > [Champ] : X-Mailer: |  Microsoft Office Outlook 12.0
+        > [Champ] : Thread-Index: |  AcpFgem9BvjjZEDeR1Kh8i+hUyVo0A==
+        > [Champ] : Content-Language: |  en-us
+        > [Champ] : Content-Type: |  multipart/alternative;
+        > [Champ] : Content-Type: |  text/plain;
+        > [Champ] : Content-Transfer-Encoding: |  7bit
+        > [Champ] : Content-Type: |  text/html;
+        > [Champ] : Content-Transfer-Encoding: |  quoted-printable
+ 
+ --------------------------------------------------
+    Frame numéro 23
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 1514 bytes 
+        > Taille de la capture : 1514 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1500
+        > ID :2550
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edef
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 24
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 1514 bytes 
+        > Taille de la capture : 1514 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1500
+        > ID :2551
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edee
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [Champ] : Content-Type: |  text/plain;
+        > [Champ] : Content-Transfer-Encoding: |  quoted-printable
+        > [Champ] : Content-Disposition: |  attachment;
+ 
+ --------------------------------------------------
+    Frame numéro 25
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 1514 bytes 
+        > Taille de la capture : 1514 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1500
+        > ID :2552
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: eded
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 26
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 590 bytes 
+        > Taille de la capture : 590 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 576
+        > ID :4519
+        > FLAGS: 00
+        > TTL (Time to Live):63
+        > Checksum du Header: 672d
+        > Source: 192.168.1.1
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [Champ] : From: |  "Gurpartap Singh" <gurpartap@patriots.in>
+        > [Champ] : To: |  <raj_deol2002in@yahoo.co.in>
+        > [Champ] : Subject: |  SMTP
+        > [Champ] : Date: |  Mon, 5 Oct 2009 11:36:07 +0530
+        > [Champ] : Message-ID: |  <000301ca4581$ef9e57f0$cedb07d0$@in>
+        > [Champ] : MIME-Version: |  1.0
+        > [Champ] : Content-Type: |  multipart/mixed;
+        > [Champ] : X-Mailer: |  Microsoft Office Outlook 12.0
+        > [Champ] : Thread-Index: |  AcpFgem9BvjjZEDeR1Kh8i+hUyVo0A==
+        > [Champ] : Content-Language: |  en-us
+ 
+ --------------------------------------------------
+    Frame numéro 27
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2553
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edf4
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [Champ] : From: |  "Gurpartap Singh" <gurpartap@patriots.in>
+        > [Champ] : To: |  <raj_deol2002in@yahoo.co.in>
+        > [Champ] : Subject: |  SMTP
+        > [Champ] : Date: |  Mon, 5 Oct 2009 11:36:07 +0530
+        > [Champ] : Message-ID: |  <000301ca4581$ef9e57f0$cedb07d0$@in>
+        > [Champ] : MIME-Version: |  1.0
+        > [Champ] : Content-Type: |  multipart/mixed;
+        > [Champ] : X-Mailer: |  Microsoft Office Outlook 12.0
+        > [Champ] : Thread-Index: |  AcpFgem9BvjjZEDeR1Kh8i+hUyVo0A==
+        > [Champ] : Content-Language: |  en-us
+        > [Champ] : Content-Type: |  multipart/alternative;
+        > [Champ] : Content-Type: |  text/plain;
+        > [Champ] : Content-Transfer-Encoding: |  7bit
+        > [Champ] : Content-Type: |  text/html;
+        > [Champ] : Content-Transfer-Encoding: |  quoted-printable
+ 
+ --------------------------------------------------
+    Frame numéro 28
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 590 bytes 
+        > Taille de la capture : 590 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 576
+        > ID :451a
+        > FLAGS: 00
+        > TTL (Time to Live):63
+        > Checksum du Header: 672c
+        > Source: 192.168.1.1
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 29
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 590 bytes 
+        > Taille de la capture : 590 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 576
+        > ID :451b
+        > FLAGS: 00
+        > TTL (Time to Live):63
+        > Checksum du Header: 672b
+        > Source: 192.168.1.1
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [Champ] : Content-Type: |  text/plain;
+        > [Champ] : Content-Transfer-Encoding: |  quot
+ 
+ --------------------------------------------------
+    Frame numéro 30
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:10
+        > Taille du paquet: 590 bytes 
+        > Taille de la capture : 590 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 576
+        > ID :451c
+        > FLAGS: 00
+        > TTL (Time to Live):63
+        > Checksum du Header: 672a
+        > Source: 192.168.1.1
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 31
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21eb
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a9
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 32
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2554
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edf3
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 33
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2555
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edf2
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [Champ] : Content-Type: |  text/plain;
+        > [Champ] : Content-Transfer-Encoding: |  quoted-printable
+        > [Champ] : Content-Disposition: |  attachment;
+ 
+ --------------------------------------------------
+    Frame numéro 34
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21ec
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a8
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 35
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2556
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edf1
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 36
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2557
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edf0
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 37
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21ed
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a7
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 38
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2558
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edef
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 39
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :2559
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edee
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 40
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21ee
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a6
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 41
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :255a
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: eded
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 42
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :255b
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edec
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 43
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21ef
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a5
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 44
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 1506 bytes 
+        > Taille de la capture : 1506 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 1492
+        > ID :255c
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: edeb
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 45
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 83 bytes 
+        > Taille de la capture : 83 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 69
+        > ID :255d
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f379
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 46
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f0
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a4
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 47
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:11
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f1
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a3
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 48
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:12
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f2
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a2
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 49
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:12
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f3
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a1
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 50
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:12
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f4
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 44a0
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 51
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:12
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f5
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 449f
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 52
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:12
+        > Taille du paquet: 82 bytes 
+        > Taille de la capture : 82 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 68
+        > ID :21f6
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 4482
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 250 |  OK id=1Mugho-0003Dg-Un
+ 
+ --------------------------------------------------
+    Frame numéro 54
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:14
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:1f:33:d9:81:60
+        > Source: 00:e0:1c:3c:17:c2
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 46
+        > ID :2565
+        > FLAGS: 02
+        > TTL (Time to Live):128
+        > Checksum du Header: f388
+        > Source: 10.10.1.4
+        > Destination: 74.53.140.153
+
+    TCP -------------------------------------------
+        > Port Source: 1470
+        > Port Destination: 25
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [ESMTP command] : QUIT | 
+ 
+ --------------------------------------------------
+    Frame numéro 56
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:15
+        > Taille du paquet: 102 bytes 
+        > Taille de la capture : 102 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 88
+        > ID :21f7
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 446d
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+        > [CODE] : 221 |  xc90.websitewelcome.com closing connection
+ 
+ --------------------------------------------------
+    Frame numéro 57
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:15
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f8
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 449c
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
+ --------------------------------------------------
+    Frame numéro 59
+ --------------------------------------------------
+        > Date d'arrivée: 05 octobre 2009 08:06:15
+        > Taille du paquet: 60 bytes 
+        > Taille de la capture : 60 bytes 
+
+    Ethernet --------------------------------------
+        > Destination: 00:e0:1c:3c:17:c2
+        > Source: 00:1f:33:d9:81:60
+        > Type: ip version 4
+
+    IP --------------------------------------------
+        > Version: ip version 4
+        > Taille du header IP: 20 bytes
+        > Taille totale: 40
+        > ID :21f9
+        > FLAGS: 02
+        > TTL (Time to Live):50
+        > Checksum du Header: 449b
+        > Source: 74.53.140.153
+        > Destination: 10.10.1.4
+
+    TCP -------------------------------------------
+        > Port Source: 25
+        > Port Destination: 1470
+        > Taille du header TCP: 20 bytes
+
+    SMTP --------------------------------------------------
+ 
